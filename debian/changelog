@@ -1,3 +1,9 @@
+netgwm (0.3+sci2) unstable; urgency=low
+
+  * small fixes
+
+ -- Vladimir Ipatov <vs@ipatov.net>  Sat, 24 Nov 2014 03:36:30 +0300
+
 netgwm (0.3+sci1) unstable; urgency=low
 
   * More automated install

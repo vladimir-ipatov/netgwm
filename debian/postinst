@@ -5,5 +5,6 @@ if !(cat "$rt_tables"|grep -q netgwm_check) then
     echo "194    netgwm_check" >> "$rt_tables"
 fi
 
+update-rc.d netgwm defaults
 invoke-rc.d netgwm start
 

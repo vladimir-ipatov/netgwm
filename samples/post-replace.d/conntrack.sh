@@ -15,4 +15,4 @@
 # $5 - old gateway IP or NaN
 # $6 - old gateway device or NaN
 
-onntrack -D -p udp
+conntrack -D -p udp
